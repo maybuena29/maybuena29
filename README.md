@@ -4,7 +4,6 @@
   👋 Hi, I am [zxc.dev](https://maybuena-portfolio.netlify.app/).
 </h1>
 
-
 <h4 style="text-align: justify;">
   I’m a full-stack developer with experience in building responsive and scalable web applications. I enjoy working on both the front-end and back-end, making sure everything works seamlessly together. Coding has always been my passion, and I’m constantly looking for ways to improve and learn new things.
 </h4>
@@ -13,7 +12,6 @@
 <div align="center" style="margin-top: 20px">
 
 # 🛠️ Tech Stack
-
 </div>
 
 <div align="center">
@@ -28,8 +26,11 @@
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
 
-[![](https://visitcount.itsvg.in/api?id=maybuena29&icon=2&color=6)](https://visitcount.itsvg.in)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </div>
